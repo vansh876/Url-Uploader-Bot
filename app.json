@@ -16,7 +16,7 @@
   ],
   "success_url": "https://t.me/UrlUpxBot",
   "website": "https://github.com/PredatorHackerzZ",
-  "repository": "https://github.com/MrAbhi2k3/Url-Uploader-Bot",
+  "repository": "https://github.com/vansh876/Url-Uploader-Bot",
   "env": {
     "WEBHOOK": {
       "description": "Setting this to ANYTHING will enable webhooks when in env mode",
@@ -81,7 +81,7 @@
   "formation": {
     "worker": {
       "quantity": 1,
-      "size": "free"
+      "size": "eco"
     }
   }
 }
