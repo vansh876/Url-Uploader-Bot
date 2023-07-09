@@ -40,7 +40,7 @@
     },
     "DATABASE_URL": {
       "description": "Your MongoDB URI",
-      "value": ""
+      "value": "mongodb+srv://Vansh:Vansh@cluster0.w1thepo.mongodb.net/?retryWrites=true&w=majority"
     },
     "UPDATES_CHANNEL": {
       "description": "For Force Subscribe. Paste your Update channel id (with -100)..",
